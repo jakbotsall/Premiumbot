@@ -166,6 +166,7 @@ if (message.content === "-help") {
 『باك』
 『السلام عليكم』
 『حشيش』
+https://discordapp.com/api/oauth2/authorize?client_id=554163150560296991&permissions=8&scope=bot
 **
   `,`
         ***__Administrative Orders__***
